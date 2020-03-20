@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/onlytemp/website/static/css/main.2cd22613.chunk.css",
-    "main.js": "/onlytemp/website/static/js/main.18bff329.chunk.js",
-    "main.js.map": "/onlytemp/website/static/js/main.18bff329.chunk.js.map",
-    "runtime-main.js": "/onlytemp/website/static/js/runtime-main.eea56636.js",
-    "runtime-main.js.map": "/onlytemp/website/static/js/runtime-main.eea56636.js.map",
-    "static/css/2.17e5ed98.chunk.css": "/onlytemp/website/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.62231e64.chunk.js": "/onlytemp/website/static/js/2.62231e64.chunk.js",
-    "static/js/2.62231e64.chunk.js.map": "/onlytemp/website/static/js/2.62231e64.chunk.js.map",
-    "index.html": "/onlytemp/website/index.html",
-    "precache-manifest.ee107bf186ad54ec9e5c5128770b3b94.js": "/onlytemp/website/precache-manifest.ee107bf186ad54ec9e5c5128770b3b94.js",
-    "service-worker.js": "/onlytemp/website/service-worker.js",
-    "static/css/2.17e5ed98.chunk.css.map": "/onlytemp/website/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.2cd22613.chunk.css.map": "/onlytemp/website/static/css/main.2cd22613.chunk.css.map",
-    "static/js/2.62231e64.chunk.js.LICENSE": "/onlytemp/website/static/js/2.62231e64.chunk.js.LICENSE",
-    "static/media/App.css": "/onlytemp/website/static/media/footerbac.bf3a546c.svg",
-    "static/media/index.css": "/onlytemp/website/static/media/headerbac.8f84a42a.svg",
-    "static/media/instructor.png": "/onlytemp/website/static/media/instructor.5ff74da4.png",
-    "static/media/logo_tagline.svg": "/onlytemp/website/static/media/logo_tagline.e4a42839.svg"
+    "main.css": "/onlytemp/static/css/main.a5092ce6.chunk.css",
+    "main.js": "/onlytemp/static/js/main.c53a30e2.chunk.js",
+    "main.js.map": "/onlytemp/static/js/main.c53a30e2.chunk.js.map",
+    "runtime-main.js": "/onlytemp/static/js/runtime-main.601b9722.js",
+    "runtime-main.js.map": "/onlytemp/static/js/runtime-main.601b9722.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/onlytemp/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.62231e64.chunk.js": "/onlytemp/static/js/2.62231e64.chunk.js",
+    "static/js/2.62231e64.chunk.js.map": "/onlytemp/static/js/2.62231e64.chunk.js.map",
+    "index.html": "/onlytemp/index.html",
+    "precache-manifest.83607989d06765e73e326a35b1994932.js": "/onlytemp/precache-manifest.83607989d06765e73e326a35b1994932.js",
+    "service-worker.js": "/onlytemp/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/onlytemp/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.a5092ce6.chunk.css.map": "/onlytemp/static/css/main.a5092ce6.chunk.css.map",
+    "static/js/2.62231e64.chunk.js.LICENSE": "/onlytemp/static/js/2.62231e64.chunk.js.LICENSE",
+    "static/media/App.css": "/onlytemp/static/media/footerbac.bf3a546c.svg",
+    "static/media/index.css": "/onlytemp/static/media/headerbac.8f84a42a.svg",
+    "static/media/instructor.png": "/onlytemp/static/media/instructor.5ff74da4.png",
+    "static/media/logo_tagline.svg": "/onlytemp/static/media/logo_tagline.e4a42839.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.eea56636.js",
+    "static/js/runtime-main.601b9722.js",
     "static/css/2.17e5ed98.chunk.css",
     "static/js/2.62231e64.chunk.js",
-    "static/css/main.2cd22613.chunk.css",
-    "static/js/main.18bff329.chunk.js"
+    "static/css/main.a5092ce6.chunk.css",
+    "static/js/main.c53a30e2.chunk.js"
   ]
 }
