@@ -32,7 +32,7 @@ function App() {
         <Container-Fluid>
             <BrowserRouter>
                 <div id="App">
-                    <Header/>
+                    <Header />
                 </div>                
                 <div id="dq" class='App' >
                         <Switch>
@@ -44,7 +44,7 @@ function App() {
                         </Switch>
                 </div>
                 <div class='footer'>      
-                  <Footer/>
+                  <Footer />
                 </div>      
             </BrowserRouter>
       </Container-Fluid>
