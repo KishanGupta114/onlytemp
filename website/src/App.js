@@ -5,7 +5,7 @@ import {
   Route,
   Switch,
   withRouter,
-  BrowserRouter as Router,
+  BrowserRouter,
 } from "react-router-dom";  
 
 import Adi from './Adi';
@@ -30,7 +30,7 @@ const Header = withRouter(Head);
 function App() {
   return (
         <Container-Fluid>
-            <Router  basename={process.env.PUBLIC_URL+"/"}>
+            <BrowserRouter  basename={process.env.PUBLIC_URL+"/"}>
                 <div id="App">
                     <Header/>
                 </div>                
@@ -40,13 +40,13 @@ function App() {
                           <Route exact path="/admin" component={Adi} />
                           <Route exact path="/learn" component={Learn} />
                           <Route exact path="/ed" component={Ace} />
-                          <Route component={Error}/>
+                          <Route component={Error} />
                         </Switch>
                 </div>
                 <div class='footer'>      
                   <Footer/>
                 </div>      
-            </Router>
+            </BrowserRouter>
       </Container-Fluid>
   );
 }
