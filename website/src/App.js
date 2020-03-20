@@ -36,10 +36,10 @@ function App() {
                 </div>                
                 <div id="dq" class='App' >
                         <Switch>
-                          <Route path="/" component={Home} exact/>
-                          <Route path="/admin" component={Adi} exact/>
-                          <Route path="/learn" component={Learn} exact/>
-                          <Route path="/ed" component={Ace} exact/>
+                          <Route exact path="/" component={Home} />
+                          <Route exact path="/admin" component={Adi} />
+                          <Route exact path="/learn" component={Learn} />
+                          <Route exact path="/ed" component={Ace} />
                           <Route component={Error}/>
                         </Switch>
                 </div>
