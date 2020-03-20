@@ -30,7 +30,7 @@ const Header = withRouter(Head);
 function App() {
   return (
         <Container-Fluid>
-            <BrowserRouter  basename={process.env.PUBLIC_URL+"/"}>
+            <BrowserRouter>
                 <div id="App">
                     <Header/>
                 </div>                
